@@ -18,5 +18,5 @@ This is a simple *Python* code that creates personalized playlists for movies an
 • User can search shows.
 
 ## Notes
-**This project was made through a course in the [Alura](https://www.alura.com.br/) website.<br>
+**This project was made through a course on the [Alura](https://www.alura.com.br/) website.<br>
 The Program is still under development.**
